@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+llama-parse
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-voyageai 
