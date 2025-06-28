@@ -16,7 +16,7 @@ llama-index-multi-modal-llms-openai
 llama-index-program-openai
 llama-index-question-gen-openai
 llama-index-readers-file
-voyageai==0.3.2
+voyageai==0.3.0rc0
 gemini-api
 requests==2.32.3
 python-multipart==0.0.20
